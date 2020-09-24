@@ -18,6 +18,7 @@
 |2nd testing |2nd testing|2nd testing|
 
 [NKUST](https://www.nkust.edu.tw/)
+![NKUST](nkust.png "高科大")
 
 <https://www.nkust.edu.tw/>
 
